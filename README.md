@@ -2,6 +2,7 @@
 [![npm version](https://badge.fury.io/js/%40angular%2Fmaterial.svg)](https://www.npmjs.com/package/%40angular%2Fmaterial)
 [![Build status](https://circleci.com/gh/angular/material2.svg?style=svg)](https://circleci.com/gh/angular/material2)
 [![Gitter](https://badges.gitter.im/angular/material2.svg)](https://gitter.im/angular/material2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fmaterial2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fmaterial2?ref=badge_shield)
 
 This is the home for the Angular team's Material Design components built for and with Angular.
 
@@ -176,3 +177,7 @@ We also aim for great user experience with the following screen readers:
 * NVDA and JAWS with IE / FF / Chrome (on Windows).
 * VoiceOver with Safari on iOS and Safari / Chrome on OSX.
 * TalkBack with Chrome on Android.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fmaterial2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fmaterial2?ref=badge_large)
